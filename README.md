@@ -9,3 +9,5 @@ See here for more info about this directory https://www.sidefx.com/docs/houdini/
 </p>
 
 The nodes available in the menu for each context and the menu hotkey can be customized in the createEventHandler function at the top of the script.
+
+The default hotkey is Shift+Tab
