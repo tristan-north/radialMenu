@@ -4,9 +4,8 @@ To install download the nodegraphhooks.py file and put it in the python2.7libs d
 
 See here for more info about this directory https://www.sidefx.com/docs/houdini/hom/locations.html#disk
 
-The nodes available in the menu for each context and the menu hotkey can be customized in the createEventHandler function at the top of the script.
-
-
 <p align="center">
   <img src="./readme_img.png">
 </p>
+
+The nodes available in the menu for each context and the menu hotkey can be customized in the createEventHandler function at the top of the script.
