@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Radial Menu</h1>
   <h3>A contextual radial menu for selecting nodes in the Houdini node graph</h3>
-  <img height="290" src="screenshots/menu_obj.png">
   <img height="290" src="screenshots/menu_sop.png">
   <img height="290" src="screenshots/menu_vop.png">
 </div>
