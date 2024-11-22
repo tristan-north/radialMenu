@@ -93,7 +93,7 @@ class RadialWin(QtWidgets.QFrame):
         self.segments = []
 
         rot = 360.0 / self.numSegments
-        for i in xrange(self.numSegments):
+        for i in range(self.numSegments):
             seg = QtGui.QPainterPath()
             seg.moveTo(self.center)
             seg.arcTo(self.rect() + QtCore.QMargins(-1,-1,-1,-1), 112.5 + i*rot, -rot)
